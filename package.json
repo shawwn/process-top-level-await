@@ -1,6 +1,6 @@
 {
   "name": "process-top-level-await",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "author": "Shawn Presser <shawnpresser@gmail.com>",
   "license": "MIT",
