@@ -1,4 +1,5 @@
 process-top-level-await is licensed for use as follows:
+
 """
 Copyright (c) 2018 Shawn Presser and other contributors
 
@@ -1268,4 +1269,3 @@ The externally maintained libraries used by Node.js are:
     FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
     IN THE SOFTWARE.
   """
-
