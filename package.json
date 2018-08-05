@@ -3,5 +3,7 @@
   "version": "0.0.0",
   "main": "index.js",
   "author": "Shawn Presser <shawnpresser@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/shawwn/process-top-level-await.git",
+  "homepage": "https://github.com/shawwn/process-top-level-await#readme"
 }
